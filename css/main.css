@@ -43,7 +43,7 @@ code {
 /*****************************************************************************/
 
 #content {
-  width: 40em;
+  width: 48em;
   margin: 0 auto;
   font-family: 'Quicksand';
 }
@@ -99,6 +99,7 @@ code {
 /*****************************************************************************/
 
 header {
+  width: 48em;
   height: 12em;
   margin: 0 auto;
   background-color: #333333;
